@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.3dglobal.core": {
+      "version": "https://github.com/ux3d/3DGlobalUnitySDK.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "80259cd4b695077c54762fc524e35a08d736a0b9"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.14",
       "depth": 0,
