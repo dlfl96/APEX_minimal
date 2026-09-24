@@ -8,22 +8,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: NamensschildZIv18Solids-Body1Mat
-    second: {fileID: 2100000, guid: f5400a3087ae54f488897809f6da3146, type: 2}
+    second: {fileID: 2100000, guid: 57764c9b398fc8e43bf698a43fe61866, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: NamensschildZIv18Solids-Body2Mat
-    second: {fileID: 2100000, guid: f5400a3087ae54f488897809f6da3146, type: 2}
+    second: {fileID: 2100000, guid: 57764c9b398fc8e43bf698a43fe61866, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: NamensschildZIv18Solids-Body3Mat
-    second: {fileID: 2100000, guid: f5400a3087ae54f488897809f6da3146, type: 2}
+    second: {fileID: 2100000, guid: 57764c9b398fc8e43bf698a43fe61866, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: NamensschildZIv18Solids-Body4Mat
-    second: {fileID: 2100000, guid: f5400a3087ae54f488897809f6da3146, type: 2}
+    second: {fileID: 2100000, guid: 57764c9b398fc8e43bf698a43fe61866, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -67,7 +67,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -83,10 +83,10 @@ ModelImporter:
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
+    secondaryUVAreaDistortion: 15
     secondaryUVHardAngle: 88
     secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinLightmapResolution: 30
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
