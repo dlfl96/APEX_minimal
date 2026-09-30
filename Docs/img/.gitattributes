@@ -1,0 +1,3 @@
+# Doku-Screenshots bewusst NICHT ueber Git LFS (die Regel "*.png -> lfs" steht in der .gitattributes im Repo-Wurzelordner).
+# So zeigt GitHub die Bilder direkt in der Doku an und ein Klon ohne Git LFS enthaelt sie trotzdem.
+*.png -filter -diff -merge -text
